@@ -1,4 +1,2 @@
-# sangam-patle-demo
-This is my first git repository.
-<br>
-SANGAM PATLE 
+# demo
+This is demo for Git & Github class
